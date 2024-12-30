@@ -14,7 +14,7 @@ export interface UrlParams {
 	distanceDriven: string | null;
 	amountOfMeals: string | null;
 	peopleInCar: string | null;
-};
+}
 
 export const urlParams = derived(page, ($page) => ({
 	get: (key: keyof UrlParams) => $page.url.searchParams.get(key),

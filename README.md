@@ -2,7 +2,7 @@
 
 A sleek and user-friendly calculator for managing work-related travel expenses in Finland. This tool helps employees track their business trips, mileage, and related expenses with ease.
 
-![Work Trip Calculator Interface](/project.png)
+![Work Trip Calculator Interface](/static/project.png)
 
 ## Features
 
