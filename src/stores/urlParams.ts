@@ -3,7 +3,7 @@ import { derived } from 'svelte/store';
 import { page } from '$app/stores';
 import { goto } from '$app/navigation';
 
-export type UrlParams = {
+export interface UrlParams {
 	person: string | null;
 	reason: string | null;
 	startingPoint: string | null;

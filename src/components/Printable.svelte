@@ -37,6 +37,7 @@
 			<div class="border-b pb-2">
 				<p class="text-gray-600">Start Date</p>
 				<p class="font-semibold">{startDate}</p>
+				˜
 			</div>
 			<div class="border-b pb-2">
 				<p class="text-gray-600">End Date</p>
